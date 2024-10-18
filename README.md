@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ggonnella
+- 🧑‍🔬 I am Unit Head for Bioinformatics and AI applications at Institute Pasteur du Cambodge in Phnom Pehn, Cambodia
 - 👀 I’m interested in genomics, bioinformatics, strings algorithms, DNA sequences and more.
 - 🐍 I am the author of several open source Python packages, which can be installed using 'pip'.
 - 🌱 I’m currently learning Rust.
